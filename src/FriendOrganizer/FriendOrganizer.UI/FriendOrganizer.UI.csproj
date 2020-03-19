@@ -11,7 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FriendOrganizer.DataAccess\FriendOrganizer.DataAccess.csproj" />
     <ProjectReference Include="..\FriendOrganizer.Model\FriendOrganizer.Model.csproj" />
   </ItemGroup>
 
